@@ -19,7 +19,7 @@ namespace FettWeather_App
             InitializeComponent();
         }
 
-        string APIKey = "847348568246477757244fbcb6b666fe";
+        string APIKey = "your APIKey from openweathermap.com";
         
       
         private void searchBtn_Click(object sender, EventArgs e)
